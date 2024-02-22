@@ -9,5 +9,7 @@ public class Question6 {
         double rs= input.nextFloat();
         double doll=rs/83.11;
         System.out.println("Value In Dollar is  "+doll);
+
+        String
     }
 }
